@@ -332,3 +332,32 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
+
+
+<p>使用 Markdown 编写您的文档并在几分钟内创建一个专业的静态站点 - 可搜索、可定制、支持 60 多种语言且适用于所有设备。</p>
+<p>网站地址：<a href="https://squidfunk.github.io/mkdocs-material/">https://squidfunk.github.io/mkdocs-material/</a></p>
+<p>Material for MkDocs 是一个用于 MkDocs 的主题，旨在帮助用户创建美观且功能丰富的文档网站。MkDocs 是一个快速、简单的静态站点生成器，专门用于创建项目文档。Material 主题提供了一系列现代化的设计元素和自定义选项，使用户能够轻松创建具有响应式设计的文档站点。它包括多种组件，如导航菜单、搜索功能、代码高亮等，以提高用户体验和可访问性。此外，Material 主题还支持多种插件，进一步扩展其功能。</p>
+<p><img class="aligncenter size-full wp-image-1594" title="Material for MkDocs 推荐一个在线文档生成网站，简单易用的文档-1" src="https://85box.com/wp-content/uploads/2024/10/20241002mqmzl.png" alt="Material for MkDocs 推荐一个在线文档生成网站，简单易用的文档-1" width="100%"/><strong>Material for MkDocs</strong> 是一个用于构建文档的主题，它基于 Google 的 Material Design 设计理念。这个主题旨在让用户更轻松地创建和维护优雅的文档网站，适合开源项目和个人网站。</p>
+<h3>特点：</h3>
+<ol>
+	<li><strong>响应式设计</strong>：适应不同设备和屏幕尺寸，确保文档在手机、平板和桌面上均可良好显示。</li>
+	<li><strong>易于定制</strong>：用户可以轻松调整主题的配色方案和排版，以匹配其品牌或个人喜好。</li>
+	<li><strong>丰富的功能</strong>：支持搜索功能、目录生成、标签、导航栏等，使得文档浏览更加便捷。</li>
+	<li><strong>Markdown 支持</strong>：用户可以使用 Markdown 格式编写文档，方便快捷。</li>
+</ol>
+<h3>使用方法：</h3>
+<p>要使用 Material for MkDocs，用户首先需要在项目中安装 MkDocs 和 Material 主题，然后进行相应的配置。可以通过以下命令安装：</p>
+<div class="dark bg-gray-950 contain-inline-size rounded-md border-[0.5px] border-token-border-medium relative">
+<div class="sticky top-9 md:top-[5.75rem]">
+<div class="absolute bottom-0 right-2 flex h-9 items-center">
+<div class="flex items-center rounded bg-token-main-surface-secondary px-2 font-sans text-xs text-token-text-secondary"><code class="!whitespace-pre hljs language-bash">pip install mkdocs-material</code></div>
+</div>
+</div>
+</div>
+<h3>资源链接：</h3>
+<ul>
+	<li><a href="https://github.com/squidfunk/mkdocs-material" target="_new" rel="noopener">Material for MkDocs GitHub 页面</a></li>
+	<li><a href="https://www.mkdocs.org/" target="_new" rel="noopener">MkDocs 官方网站</a></li>
+</ul>
+<p>这个主题的详细信息和使用指南可以在这些链接中找到。如果你需要具体的使用步骤或更多的定制选项，可以查看官方文档。</p>
+<a href="https://85box.com/github/material-for-mkdocs.html">简单易用的文档</a>：<a href="https://85box.com/github/material-for-mkdocs.html">[简单易用的文档](https://85box.com/github/material-for-mkdocs.html)</a>
